@@ -96,6 +96,16 @@ decision process by informing its members of key aspects of the project.
     -   Project is set up with Continuous Integration
     -   All project repos have implemented the [common repository structure](./repository-structure.md)
 
+-   Security
+
+    The project must identify key contact points to address
+    security related questions and concerns.
+    Some of the other responsibilities for them include:
+
+    -   Address depend-a-bot alerts in a timely manner.
+
+    -   Participate in Hyperledger Foundation wide security discussions.
+
 -   CII Badge
 
     A team seeking to graduate from *Incubation* shall have started the
