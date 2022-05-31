@@ -104,7 +104,7 @@ decision process by informing its members of key aspects of the project.
 
     -   Address depend-a-bot alerts in a timely manner.
 
-    -   Participate in Hyperledger Foundation wide security discussions.
+    -   Participate in Hyperledger Foundation wide security discussions, including subscribing to the security mailing list (by invitation only).
 
 -   CII Badge
 
